@@ -1,0 +1,15 @@
+.modal-label{
+    width: 120px;
+}
+
+.bottom-border{
+    border-bottom: 1px dashed gray;
+}
+
+.signature-div{
+    margin-top: 180px;
+}
+
+.amount-background{
+    background-color: lightblue;
+}
